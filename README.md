@@ -27,3 +27,5 @@ We will support the Evacuteer volunteers by:
 We will also provide support to New Orleans residents and visitors by:
 
 * Providing a platform for the public to understand the evacuation process and to know where to go and when to be evacuated
+
+Obviously this is no small project. There are countless features that could be added and solutions that could be implemented. For the technical details of the current vision, check out the [tech stack overview](tech_stack.md)
